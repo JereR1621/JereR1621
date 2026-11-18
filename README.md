@@ -1,58 +1,91 @@
-
 # Jeremy Rojas
 
 Computer Engineering student at Universidad de La Serena, Chile.
 
-My experience includes software development, requirements engineering, project coordination, and collaborative development across web, desktop, and game development projects.
+I have experience working on academic and collaborative software projects, with a focus on web development, backend systems, databases, and software engineering.
 
-## Projects
+Beyond programming, I've been involved in requirements analysis, technical documentation, project planning, and coordinating development workflows. My projects range from management systems and desktop applications to game development.
 
-### TuCriadero — Project Management & Software Engineering
+## Selected Projects
 
-Web-based management system for canary breeders, covering breeding records, genealogy, and genetic calculations.
+### [TuCriadero](https://github.com/JereR1621/sistema-gestion-criadero-canarios)
+**Project Management · Software Engineering**
 
-As project manager, I coordinate development tasks, requirements documentation, code integration, and review workflows.
+A web-based management system for canary breeders, designed to organize breeding records, genealogy, and genetic calculations.
 
-**Technologies and practices:** PHP, MySQL, Docker, Git, BPMN, IEEE 29148.
+I coordinate the development process, including requirements documentation, task distribution, Git workflows, code reviews, and integration between development teams.
 
-*Currently under development.*
+The project follows structured software engineering practices, including requirements specifications based on ISO/IEC/IEEE 29148, BPMN process modeling, and milestone-based development.
 
-### Patover — Collaborative Development
+*PHP · MySQL · Docker · Git · Requirements Engineering*
 
-Team software project.
+**Status:** In development
 
-[Repository](https://github.com/NomekoGenkah/patover)
+### [Patover](https://github.com/NomekoGenkah/patover)
+**Collaborative Software Development**
 
-### FabLab Web — Web Development
+A team-based software project in which I participate as a developer.
 
-Collaborative web application using PHP, MariaDB, Tailwind CSS, and JavaScript.
+*Further technical details and individual contributions to be documented.*
 
-[Repository](https://github.com/ViceVal/fablab-web)
+### [FabLab Web](https://github.com/ViceVal/fablab-web)
+**Web Development · Team Project**
 
-### Cielo Profundo — Game Jam
+A collaborative web application developed using PHP, MariaDB, Tailwind CSS, and JavaScript.
 
-**First Place — University Game Jam**
+The project involves a server-rendered application architecture, database integration, and frontend development.
 
-Team-developed game built with Unity and C#.
+*PHP · MariaDB · JavaScript · Tailwind CSS*
+
+### [Cielo Profundo](https://github.com/JereR1621/GameLab_2026_Cielo_Profundo)
+**Game Development · First Place — University Game Jam**
+
+A game developed collaboratively using Unity and C#, awarded first place in a university Game Jam.
+
+The project represents my experience working on interactive software in a team development environment.
+
+*Unity · C# · Game Development*
 
 [University announcement](https://www.instagram.com/p/Dc4S3z0gYgB/)
 
-### AI DECK — Desktop Application
+### [AI DECK](https://github.com/JereR1621/ai-deck)
+**Desktop Application Development**
 
-Windows desktop application that integrates multiple AI coding CLIs into a unified workspace, with terminal management and session persistence.
+A Windows desktop application that brings multiple AI coding command-line tools into a single workspace.
 
-[Repository](https://github.com/JereR1621/ai-deck)
+It includes integrated terminal sessions, workspace management, session restoration, and usage monitoring.
 
-## Technical Background
+*JavaScript · Node.js · Electron*
 
-**Programming:** Python, Java, C, C#, PHP, JavaScript
+### [Secure Voice Fourier Cipher](https://github.com/AdolfotULS/secure-voice-fourier-cipher)
+**Python · Signal Processing · Cryptography**
 
-**Web & Databases:** HTML, CSS, Tailwind CSS, MySQL, MariaDB
+A collaborative academic project combining voice signal processing, Fourier analysis, and file encryption.
 
-**Tools:** Git, Docker, Linux, Unity
+I contributed to the Telegram bot functionality and the integration of encryption and decryption operations.
 
-**Engineering Practices:** Requirements engineering, software documentation, project coordination, code review, and version control.
+*Python · Fourier Transform · AES · Telegram Bot API*
 
-## Contact
+## Technical Skills
 
-[GitHub](https://github.com/JereR1621)
+**Languages:** Python, Java, C, C#, PHP, JavaScript
+
+**Web Development:** HTML, CSS, Tailwind CSS
+
+**Databases:** MySQL, MariaDB, SQLite
+
+**Tools & Platforms:** Git, GitHub, Docker, Linux, Unity
+
+**Software Engineering:** Requirements Analysis, Technical Documentation, Git Workflows, Code Review, Project Coordination
+
+## Recognition
+
+**First Place — University Game Jam**
+
+Awarded to the development team behind *Cielo Profundo*, a Unity-based game project.
+
+[View university announcement](https://www.instagram.com/p/Dc4S3z0gYgB/)
+
+---
+
+[GitHub Profile](https://github.com/JereR1621)
